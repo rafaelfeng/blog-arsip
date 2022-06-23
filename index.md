@@ -10,7 +10,7 @@ summary: Soal-soal yang diarsipkan adalah soal-soal dari berbagai lomba yang dia
 
 ## Penjelasan Umum
 
-$\frac{S^2}{2}$
+$$\frac{S^2}{2}$$
 ### 1. Download the theme
 
 First, download or clone the theme from the [Github repo](https://github.com/tomjoht/documentation-theme-jekyll). Most likely you won't be pulling in updates once you start customizing the theme, so downloading the theme (instead of cloning it) probably makes the most sense. In Github, click the **Clone or download** button, and then click **Download ZIP**.
